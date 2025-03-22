@@ -3,7 +3,7 @@
 ## English 🇬🇧 
 
 ### License
-All products listed in this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated. This means you are free to share, adapt, and use the material for any purpose, even commercially, as long as appropriate credit is given.
+All products listed in this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY-Sa)](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated. This means you are free to share, adapt, and use the material for any purpose, even commercially, as long as appropriate credit is given.
 
 ### Dependecies and Components
 Other products used in this project, such as fonts, are documented in one of two places:
