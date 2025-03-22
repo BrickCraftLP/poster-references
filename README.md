@@ -11,7 +11,7 @@ Other products used in this project, such as fonts, are documented in one of two
 - __Associated GitHub Release:__ Others are detailed in the documentation accompanying the relevant GitHub release.
 
 ### Disclaimer
-The posters convey a general overview of the topic and should be considered neither comprehensive nor definitive. The details of this information are understood to be subject to interpretation. Viewers are encouraged to consult additional sources for more in-depth and precise information.
+The posters convey a general and aprtially simplified overview of the topic and should be considered neither comprehensive nor definitive. The details of this information are understood to be subject to interpretation. Viewers are encouraged to consult additional sources for more in-depth and precise information.
 
 
 ## Deutsch 🇦🇹
@@ -23,7 +23,7 @@ Andere Produkte, die in diesem Projekt verwendet werden, wie z. B. Schriftarten,
 - __Direkt auf dem Produkt:__ Einige Komponenten werden explizit auf dem Produkt selbst aufgeführt
 - __Zugehöriger GitHub-Release:__ Andere sind in der Dokumentation der jeweiligen GitHub-Version aufgeführt.
 ### Haftungsausschluss
-Die Poster vermitteln einen allgemeinen Überblick über das Thema und sollte weder als umfassend noch als endgültig angesehen werden. Die Details dieser Informationen können unterschiedlich interpretiert werden. Es wird empfohlen, zusätzliche Quellen für detailliertere und präzisere Informationen heranzuziehen.
+Die Poster vermitteln einen allgemeinen, teils vereinfachten, Überblick über das Thema und sollte weder als umfassend noch als endgültig angesehen werden. Die Details dieser Informationen können unterschiedlich interpretiert werden. Es wird empfohlen, zusätzliche Quellen für detailliertere und präzisere Informationen heranzuziehen.
 
 
 © 2025
