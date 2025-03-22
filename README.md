@@ -3,15 +3,27 @@
 ## English 🇬🇧 
 
 ### License
-All products listed in this repository, including the poster, are licensed under the [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/). This means you are free to share, adapt, and use the material for any purpose, even commercially, as long as appropriate credit is given.
+All products listed in this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY)](https://creativecommons.org/licenses/by/4.0/) unless otherwise stated. This means you are free to share, adapt, and use the material for any purpose, even commercially, as long as appropriate credit is given.
+
+### Dependecies and Components
+Other products used in this project, such as fonts, are documented in one of two places:
+- __Directly on the Product:__ Some components are explicitly listed on the product itself.
+- __Associated GitHub Release:__ Others are detailed in the documentation accompanying the relevant GitHub release.
 
 ### Disclaimer
-This poster conveys a general overview of the topic and should be considered neither comprehensive nor definitive. The details of this information are understood to be subject to interpretation. Viewers are encouraged to consult additional sources for more in-depth and precise information.
+The posters convey a general overview of the topic and should be considered neither comprehensive nor definitive. The details of this information are understood to be subject to interpretation. Viewers are encouraged to consult additional sources for more in-depth and precise information.
 
 
 ## Deutsch 🇦🇹
 ### Lizenz
-Alle in diesem Repository aufgeführten Produkte, einschließlich des Posters, sind unter der [Creative Commons Attribution 4.0 International Lizenz (CC BY)](https://creativecommons.org/licenses/by/4.0/) lizenziert. Dies bedeutet, dass Sie das Material für jeden Zweck, auch kommerziell, teilen, anpassen und verwenden dürfen, solange eine angemessene Namensnennung erfolgt.
+Alle in diesem Repository aufgeführten Produkte sind, sofern nicht anders angegeben, unter der [Creative Commons Attribution 4.0 International Lizenz (CC BY)](https://creativecommons.org/licenses/by/4.0/) lizenziert. Dies bedeutet, dass Sie das Material für jeden Zweck, auch kommerziell, teilen, anpassen und verwenden dürfen, solange eine angemessene Namensnennung erfolgt.
 
+### Abhängigkeiten und Komponenten
+Andere Produkte, die in diesem Projekt verwendet werden, wie z. B. Schriftarten, werden an einer von zwei Stellen dokumentiert:
+- __Direkt auf dem Produkt:__ Einige Komponenten werden explizit auf dem Produkt selbst aufgeführt
+- __Zugehöriger GitHub-Release:__ Andere sind in der Dokumentation der jeweiligen GitHub-Version aufgeführt.
 ### Haftungsausschluss
-Dieses Poster vermittelt einen allgemeinen Überblick über das Thema und sollte weder als umfassend noch als endgültig angesehen werden. Die Details dieser Informationen können unterschiedlich interpretiert werden. Es wird empfohlen, zusätzliche Quellen für detailliertere und präzisere Informationen heranzuziehen.
+Die Poster vermitteln einen allgemeinen Überblick über das Thema und sollte weder als umfassend noch als endgültig angesehen werden. Die Details dieser Informationen können unterschiedlich interpretiert werden. Es wird empfohlen, zusätzliche Quellen für detailliertere und präzisere Informationen heranzuziehen.
+
+
+© 2025
