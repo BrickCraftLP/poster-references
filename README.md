@@ -11,7 +11,7 @@ Other products used in this project, such as fonts, are documented in one of two
 - __Associated GitHub Release:__ Others are detailed in the documentation accompanying the relevant GitHub release.
 
 ### Disclaimer
-The posters convey a general and aprtially simplified overview of the topic and should be considered neither comprehensive nor definitive. The details of this information are understood to be subject to interpretation. Viewers are encouraged to consult additional sources for more in-depth and precise information.
+The posters convey a general and partially simplified overview of the topic and should be considered neither comprehensive nor definitive. The details of this information are understood to be subject to interpretation. Viewers are encouraged to consult additional sources for more in-depth and precise information.
 
 
 ## Deutsch 🇦🇹
